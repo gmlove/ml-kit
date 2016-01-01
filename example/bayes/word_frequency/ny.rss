@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://newyork.craigslist.org/search/stp?format=rss">
+<title>craigslist new york | strictly platonic search </title>
+<link>https://newyork.craigslist.org/search/stp</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://newyork.craigslist.org/search/stp?format=rss</dc:source>
+<dc:title>craigslist new york | strictly platonic search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2015-12-31T21:00:25-05:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://newyork.craigslist.org/mnh/stp/5374209043.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/mnh/stp/5378797768.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/brx/stp/5354691885.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/mnh/stp/5370029328.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/que/stp/5374576682.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/mnh/stp/5382615735.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/que/stp/5372772147.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/que/stp/5375676508.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/que/stp/5374577278.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/que/stp/5374576873.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/que/stp/5341989015.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/mnh/stp/5382600062.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/mnh/stp/5382597118.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/brx/stp/5382592596.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/mnh/stp/5368863840.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/mnh/stp/5382596646.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/mnh/stp/5382584242.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/mnh/stp/5382592755.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/brx/stp/5382581317.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/brx/stp/5378679174.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/mnh/stp/5364958568.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/que/stp/5371872599.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/jsy/stp/5382563316.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/mnh/stp/5382573920.html" />
+  <rdf:li rdf:resource="http://newyork.craigslist.org/jsy/stp/5382551205.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://newyork.craigslist.org/mnh/stp/5374209043.html">
+<title><![CDATA[Photographer available for all events and occasions]]></title>
+<link>http://newyork.craigslist.org/mnh/stp/5374209043.html</link>
+<description><![CDATA[friendly local well dressed photographer available on short notice. 
+All photography needs.available for all photography needs.]]></description>
+<dc:date>2015-12-31T19:54:40-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/mnh/stp/5374209043.html</dc:source>
+<dc:title><![CDATA[Photographer available for all events and occasions]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T19:54:40-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://newyork.craigslist.org/mnh/stp/5378797768.html">
+<title><![CDATA[Photographer available and seeking new friends]]></title>
+<link>http://newyork.craigslist.org/mnh/stp/5378797768.html</link>
+<description><![CDATA[Looking for new clients to take pictures of. Any kind of pics you like. Reply for more info with you details.]]></description>
+<dc:date>2015-12-31T19:54:10-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/mnh/stp/5378797768.html</dc:source>
+<dc:title><![CDATA[Photographer available and seeking new friends]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T19:54:10-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://newyork.craigslist.org/brx/stp/5354691885.html">
+<title><![CDATA[FWB - m4w (New York)]]></title>
+<link>http://newyork.craigslist.org/brx/stp/5354691885.html</link>
+<description><![CDATA[Hi im 26 and mexican (also chubby) lookin for someone to chill when we both have time off. This can lead something but it doesnt have to. i like toget drinks, go to the park for nice walks and movies and concerts. im also up for anything new.]]></description>
+<dc:date>2015-12-31T19:51:41-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/brx/stp/5354691885.html</dc:source>
+<dc:title><![CDATA[FWB - m4w (New York)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T19:51:41-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://newyork.craigslist.org/mnh/stp/5370029328.html">
+<title><![CDATA[Looking for Guy into M M 4 W to team up in 3some or groups - m4m]]></title>
+<link>http://newyork.craigslist.org/mnh/stp/5370029328.html</link>
+<description><![CDATA[I would like to team up with normal regular guy, who enjoy sex in a noncovetional way. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 
+Together we can look for hot female. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ [...]]]></description>
+<dc:date>2015-12-31T19:39:22-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/mnh/stp/5370029328.html</dc:source>
+<dc:title><![CDATA[Looking for Guy into M M 4 W to team up in 3some or groups - m4m]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00E0E_29aJJSTtdul_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-12-31T19:39:22-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://newyork.craigslist.org/que/stp/5374576682.html">
+<title><![CDATA[OVER 40 BREAST PLAY - m4w (QUEENS)]]></title>
+<link>http://newyork.craigslist.org/que/stp/5374576682.html</link>
+<description><![CDATA[I am seeking an open-minded woman with large and heavy breasts who enjoys breast and nipple play. 
+I am not looking for a sexual relationship. 
+No sex is necessary. You can remain clothed from the waist up if you like. This is just about your breasts [...]]]></description>
+<dc:date>2015-12-31T19:34:30-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/que/stp/5374576682.html</dc:source>
+<dc:title><![CDATA[OVER 40 BREAST PLAY - m4w (QUEENS)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T19:34:30-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://newyork.craigslist.org/mnh/stp/5382615735.html">
+<title><![CDATA[Married online Friendship - m4w]]></title>
+<link>http://newyork.craigslist.org/mnh/stp/5382615735.html</link>
+<description><![CDATA[It's sad to feel alone when you are married but the reality is that this sort of thing happens to a lot of people. Most of us try everything we can to make it work but at one point you have to accept the fact that things are not going to change. Divo [...]]]></description>
+<dc:date>2015-12-31T19:34:09-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/mnh/stp/5382615735.html</dc:source>
+<dc:title><![CDATA[Married online Friendship - m4w]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T19:34:09-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://newyork.craigslist.org/que/stp/5372772147.html">
+<title><![CDATA[Looking for a Little bro to Hangout and maybe more - m4m (Queens)]]></title>
+<link>http://newyork.craigslist.org/que/stp/5372772147.html</link>
+<description><![CDATA[I am Looking for a Little bro to hangout with, hear each others problems. 
+give him some advice, look after him, take care of him if he needs. 
+and if we get to do more (sexually) it would be great. 
+I am Hispanic 33 live close Queens Center Mall, Li [...]]]></description>
+<dc:date>2015-12-31T19:33:13-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/que/stp/5372772147.html</dc:source>
+<dc:title><![CDATA[Looking for a Little bro to Hangout and maybe more - m4m (Queens)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T19:33:13-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://newyork.craigslist.org/que/stp/5375676508.html">
+<title><![CDATA[OVER 40 BREAST PLAY - m4w (QUEENS)]]></title>
+<link>http://newyork.craigslist.org/que/stp/5375676508.html</link>
+<description><![CDATA[I am seeking an open-minded woman with large and heavy breasts who enjoys breast and nipple play. 
+I am not looking for a sexual relationship. 
+No sex is necessary. You can remain clothed from the waist up if you like. This is just about your breasts [...]]]></description>
+<dc:date>2015-12-31T19:33:10-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/que/stp/5375676508.html</dc:source>
+<dc:title><![CDATA[OVER 40 BREAST PLAY - m4w (QUEENS)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T19:33:10-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://newyork.craigslist.org/que/stp/5374577278.html">
+<title><![CDATA[OVER 40 BREAST PLAY - m4w (QUEENS)]]></title>
+<link>http://newyork.craigslist.org/que/stp/5374577278.html</link>
+<description><![CDATA[I am seeking an open-minded woman with large and heavy breasts who enjoys breast and nipple play. 
+I am not looking for a sexual relationship. 
+No sex is necessary. You can remain clothed from the waist up if you like. This is just about your breasts [...]]]></description>
+<dc:date>2015-12-31T19:31:12-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/que/stp/5374577278.html</dc:source>
+<dc:title><![CDATA[OVER 40 BREAST PLAY - m4w (QUEENS)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T19:31:12-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://newyork.craigslist.org/que/stp/5374576873.html">
+<title><![CDATA[OVER 40 BREAST PLAY - m4w (QUEENS)]]></title>
+<link>http://newyork.craigslist.org/que/stp/5374576873.html</link>
+<description><![CDATA[I am seeking an open-minded woman with large and heavy breasts who enjoys breast and nipple play. 
+I am not looking for a sexual relationship. 
+No sex is necessary. You can remain clothed from the waist up if you like. This is just about your breasts [...]]]></description>
+<dc:date>2015-12-31T19:30:43-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/que/stp/5374576873.html</dc:source>
+<dc:title><![CDATA[OVER 40 BREAST PLAY - m4w (QUEENS)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T19:30:43-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://newyork.craigslist.org/que/stp/5341989015.html">
+<title><![CDATA[Treat yourself to a Free Full body Heated Oil Massage tonight - m4w (Queens)]]></title>
+<link>http://newyork.craigslist.org/que/stp/5341989015.html</link>
+<description><![CDATA[If you are a cute clean nice female, and looking for your turn to be pleased and pampered with no strings or reciprocation then I am your man. 
+I am one of those rare guys that enjoys doing the pampering and pleasing more than getting it. 
+I have ama [...]]]></description>
+<dc:date>2015-12-31T19:27:53-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/que/stp/5341989015.html</dc:source>
+<dc:title><![CDATA[Treat yourself to a Free Full body Heated Oil Massage tonight - m4w (Queens)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00h0h_adRJSzBxZRd_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-12-31T19:27:53-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://newyork.craigslist.org/mnh/stp/5382600062.html">
+<title><![CDATA[Need NYE Friends - w4w]]></title>
+<link>http://newyork.craigslist.org/mnh/stp/5382600062.html</link>
+<description><![CDATA[Ok so heres the deal, my NYE plans fell through. Honestly I'm just looking for another GIRL/WOMAN around my age(23) so 22-28 to get dressed to the 9's with and check out a cool club or bar. I'm 5'8 and will be wearing heels haha so I'm pretty tall ^_ [...]]]></description>
+<dc:date>2015-12-31T19:18:30-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/mnh/stp/5382600062.html</dc:source>
+<dc:title><![CDATA[Need NYE Friends - w4w]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T19:18:30-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://newyork.craigslist.org/mnh/stp/5382597118.html">
+<title><![CDATA[in need of a friend - w4mw (East Harlem)]]></title>
+<link>http://newyork.craigslist.org/mnh/stp/5382597118.html</link>
+<description><![CDATA[I don't really known what to say here. I am just truly lonely. I have a boyfriend who claims he loves me, but ignores me. I have three sons 8yrs 5yrs and 3yrs old. I really would just love to have someone to talk to. I don't know any other mothers to [...]]]></description>
+<dc:date>2015-12-31T19:16:46-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/mnh/stp/5382597118.html</dc:source>
+<dc:title><![CDATA[in need of a friend - w4mw (East Harlem)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T19:16:46-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://newyork.craigslist.org/brx/stp/5382592596.html">
+<title><![CDATA[Anyone want to hang out for the new yrs??? - m4w]]></title>
+<link>http://newyork.craigslist.org/brx/stp/5382592596.html</link>
+<description><![CDATA[Anyone with no plans today want to get together and 
+Go out have some drinks enjoy the night ]]></description>
+<dc:date>2015-12-31T19:16:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/brx/stp/5382592596.html</dc:source>
+<dc:title><![CDATA[Anyone want to hang out for the new yrs??? - m4w]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T19:16:08-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://newyork.craigslist.org/mnh/stp/5368863840.html">
+<title><![CDATA[Seeking a Skinny Asian Girl to Spit in My Mouth - m4w (Manhattan)]]></title>
+<link>http://newyork.craigslist.org/mnh/stp/5368863840.html</link>
+<description><![CDATA[For quite some time, I've found there's just something about spitting and drooling that's such a turn on. So, like the title says, I'm seeking an Asian girl, preferably on the skinny side who shares the same kinky interest in spit play and would be w [...]]]></description>
+<dc:date>2015-12-31T19:13:31-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/mnh/stp/5368863840.html</dc:source>
+<dc:title><![CDATA[Seeking a Skinny Asian Girl to Spit in My Mouth - m4w (Manhattan)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/01616_lkU8licCTee_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-12-31T19:13:31-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://newyork.craigslist.org/mnh/stp/5382596646.html">
+<title><![CDATA[A Friend For The New Year - m4w (TriBeCa)]]></title>
+<link>http://newyork.craigslist.org/mnh/stp/5382596646.html</link>
+<description><![CDATA[Good evening! 
+I'm a short, bearded college student simply looking to talk to someone. I'm a sci-fi enthusiast with an interest in a number of things. I love going to museums and just staring at art for a long while. To be honest, I'd love to buy all [...]]]></description>
+<dc:date>2015-12-31T19:09:13-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/mnh/stp/5382596646.html</dc:source>
+<dc:title><![CDATA[A Friend For The New Year - m4w (TriBeCa)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T19:09:13-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://newyork.craigslist.org/mnh/stp/5382584242.html">
+<title><![CDATA[Need a friend? Someone to talk to? - w4mw]]></title>
+<link>http://newyork.craigslist.org/mnh/stp/5382584242.html</link>
+<description><![CDATA[Are you in need of someone to listen? A friend to talk to? Someone you can ask for advice? 
+I have been using my psychology degree to help people get through rough patches for the past few years. Sometimes all you need is someone you can bounce ideas [...]]]></description>
+<dc:date>2015-12-31T19:05:49-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/mnh/stp/5382584242.html</dc:source>
+<dc:title><![CDATA[Need a friend? Someone to talk to? - w4mw]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T19:05:49-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://newyork.craigslist.org/mnh/stp/5382592755.html">
+<title><![CDATA[Exec 4 Exec FWB - m4m (Murray Hill)]]></title>
+<link>http://newyork.craigslist.org/mnh/stp/5382592755.html</link>
+<description><![CDATA[Happy New Year Gents. Time's right to get what I want. Looking for white collar exec looking for a FWB relationship. Discreet, smart, sensual. Top rated looking for same. Looking for smart, successful, in-shape and discreet exec playmate. 
+Me?... Suc [...]]]></description>
+<dc:date>2015-12-31T19:04:26-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/mnh/stp/5382592755.html</dc:source>
+<dc:title><![CDATA[Exec 4 Exec FWB - m4m (Murray Hill)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T19:04:26-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://newyork.craigslist.org/brx/stp/5382581317.html">
+<title><![CDATA[(Wm) wants some female companionship - m4w (NYC bronx yonkers)]]></title>
+<link>http://newyork.craigslist.org/brx/stp/5382581317.html</link>
+<description><![CDATA[Im looking for a woman to spend time and hang out with. i would like some physical contact(holding,kissing, etc., . I'm respectful, laid back, open minded, and easy to get along with, but not a pushover, so just treat me well and i gladly treat you t [...]]]></description>
+<dc:date>2015-12-31T18:56:22-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/brx/stp/5382581317.html</dc:source>
+<dc:title><![CDATA[(Wm) wants some female companionship - m4w (NYC bronx yonkers)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T18:56:22-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://newyork.craigslist.org/brx/stp/5378679174.html">
+<title><![CDATA[looking to establish close, loving and loyal friendship with a lady - - m4w (new york)]]></title>
+<link>http://newyork.craigslist.org/brx/stp/5378679174.html</link>
+<description><![CDATA[seeking out a friendship a close friendship with a lady long term 
+looking for good times and enjoy life with someone 
+Three words that describe me: 
+1) Cheerful 
+2) Compassionate 
+3) Dedicated 
+Some activities I'd like to share with you: 
+1) exercis [...]]]></description>
+<dc:date>2015-12-31T18:55:00-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/brx/stp/5378679174.html</dc:source>
+<dc:title><![CDATA[looking to establish close, loving and loyal friendship with a lady - - m4w (new york)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T18:55:00-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://newyork.craigslist.org/mnh/stp/5364958568.html">
+<title><![CDATA[Had a Long Day at Work on Your Feet? Need a Foot Massage? - m4w (Manhattan)]]></title>
+<link>http://newyork.craigslist.org/mnh/stp/5364958568.html</link>
+<description><![CDATA[Have you had a long hard day at work? Do you spend most of the day on your feet? Maybe you'd just like to indulge in a nice relaxing foot massage. Whatever the case may be, I'd love to help. 
+I would love to give you a relaxing foot massage and suck  [...]]]></description>
+<dc:date>2015-12-31T18:54:08-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/mnh/stp/5364958568.html</dc:source>
+<dc:title><![CDATA[Had a Long Day at Work on Your Feet? Need a Foot Massage? - m4w (Manhattan)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00e0e_hIdu1Z4LQu2_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-12-31T18:54:08-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://newyork.craigslist.org/que/stp/5371872599.html">
+<title><![CDATA[movies lunch dinners friend - m4w (astoria/forest hills)]]></title>
+<link>http://newyork.craigslist.org/que/stp/5371872599.html</link>
+<description><![CDATA[white male 40's w/o kids seeking a nice asian caucasian latina female in her 30's or 40's to go out from time to time to movies lunch dinners be my treat I am free most of the times after 530pm on friday's and after12noon on the weekends pic 4 pic.]]></description>
+<dc:date>2015-12-31T18:47:52-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/que/stp/5371872599.html</dc:source>
+<dc:title><![CDATA[movies lunch dinners friend - m4w (astoria/forest hills)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T18:47:52-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://newyork.craigslist.org/jsy/stp/5382563316.html">
+<title><![CDATA[East indian for CHAT or PHONE - m4mw (CNJ)]]></title>
+<link>http://newyork.craigslist.org/jsy/stp/5382563316.html</link>
+<description><![CDATA[Professional east Indian looking for friends to talk over phone or Chat , want to share and talk , meet once in a while for a coffee . I am looking for some one to talk things which you cant talk to people involved in life. i dont want to be judged , [...]]]></description>
+<dc:date>2015-12-31T18:46:28-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/jsy/stp/5382563316.html</dc:source>
+<dc:title><![CDATA[East indian for CHAT or PHONE - m4mw (CNJ)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T18:46:28-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://newyork.craigslist.org/mnh/stp/5382573920.html">
+<title><![CDATA[NYE date / friends / hang out? - m4m (Upper East Side)]]></title>
+<link>http://newyork.craigslist.org/mnh/stp/5382573920.html</link>
+<description><![CDATA[hey guys, this is a long shot but otherwise I'm just gpnna sit at home and drink lol. 
+Anybody want to hang out for New Year's Eve? watch the events, cuddle up, have a drink, just have a conversation? Wouldn't be opposed to that midnight kiss, either [...]]]></description>
+<dc:date>2015-12-31T18:41:46-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/mnh/stp/5382573920.html</dc:source>
+<dc:title><![CDATA[NYE date / friends / hang out? - m4m (Upper East Side)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00p0p_l7FSADIiqeF_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-12-31T18:41:46-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://newyork.craigslist.org/jsy/stp/5382551205.html">
+<title><![CDATA[Martial ARTS Woman - m4w (Manhattan)]]></title>
+<link>http://newyork.craigslist.org/jsy/stp/5382551205.html</link>
+<description><![CDATA[Looking for a workout partner where you can practice your martial arts on me,Great Exercise!]]></description>
+<dc:date>2015-12-31T18:40:02-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://newyork.craigslist.org/jsy/stp/5382551205.html</dc:source>
+<dc:title><![CDATA[Martial ARTS Woman - m4w (Manhattan)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T18:40:02-05:00</dcterms:issued>
+</item>
+</rdf:RDF>

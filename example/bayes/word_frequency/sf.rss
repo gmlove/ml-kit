@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://sfbay.craigslist.org/search/stp?format=rss">
+<title>craigslist SF bay area | strictly platonic search </title>
+<link>https://sfbay.craigslist.org/search/stp</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://sfbay.craigslist.org/search/stp?format=rss</dc:source>
+<dc:title>craigslist SF bay area | strictly platonic search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2015-12-31T17:59:34-08:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/stp/5382633646.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sfc/stp/5379264922.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sfc/stp/5378460830.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sby/stp/5382615348.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/pen/stp/5376666040.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/stp/5382594759.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/stp/5382604951.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/pen/stp/5382601232.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/stp/5379446157.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/stp/5379446760.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/stp/5382576260.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/stp/5382574995.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/stp/5382575675.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/stp/5382582654.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sfc/stp/5382582051.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/stp/5378724035.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sby/stp/5377381160.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sfc/stp/5382523882.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/nby/stp/5382524709.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/stp/5382562434.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/eby/stp/5382543873.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sfc/stp/5382553527.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sfc/stp/5382525338.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sfc/stp/5382480362.html" />
+  <rdf:li rdf:resource="http://sfbay.craigslist.org/sfc/stp/5378815138.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://sfbay.craigslist.org/eby/stp/5382633646.html">
+<title><![CDATA[Drink Bubbles and be Creative? - m4w]]></title>
+<link>http://sfbay.craigslist.org/eby/stp/5382633646.html</link>
+<description><![CDATA[No plans this evening other than a little creative work to do... thought I might see if anyone else out there was without NYE plans who wanted to lay low, and drink some bubbles/be creative (clay/paint/more options)/chat about the past year and the o [...]]]></description>
+<dc:date>2015-12-31T16:58:54-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/stp/5382633646.html</dc:source>
+<dc:title><![CDATA[Drink Bubbles and be Creative? - m4w]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T16:58:54-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sfc/stp/5379264922.html">
+<title><![CDATA[Do you need a man's opinion on something? - m4w (SF BAY)]]></title>
+<link>http://sfbay.craigslist.org/sfc/stp/5379264922.html</link>
+<description><![CDATA[If you need to get something off your chest, or an objective take on a problem/situation, I'd be happy to listen and get back to you as soon as I am able to. 
+Drop me a line, it's totally anonymous. 
+What do you have to lose?]]></description>
+<dc:date>2015-12-31T16:49:14-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sfc/stp/5379264922.html</dc:source>
+<dc:title><![CDATA[Do you need a man's opinion on something? - m4w (SF BAY)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T16:49:14-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sfc/stp/5378460830.html">
+<title><![CDATA[Baby, Can you meet my simple need? - m4w (Anywhere)]]></title>
+<link>http://sfbay.craigslist.org/sfc/stp/5378460830.html</link>
+<description><![CDATA[The need is simple, not complicated. Just need a quasi girlfriend, a SB, with whom I can have a fun filled mutually beneficial relationship involving activities, fine dining, travels, sightseeing, conversations, shopping, and a lot more.If interested [...]]]></description>
+<dc:date>2015-12-31T16:35:25-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sfc/stp/5378460830.html</dc:source>
+<dc:title><![CDATA[Baby, Can you meet my simple need? - m4w (Anywhere)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T16:35:25-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sby/stp/5382615348.html">
+<title><![CDATA[Kik - w4m (San Jose)]]></title>
+<link>http://sfbay.craigslist.org/sby/stp/5382615348.html</link>
+<description><![CDATA[Just at home bored. Message me on kik at Det628jp. I'm 44 and like to meet new people online. Talk soon.]]></description>
+<dc:date>2015-12-31T16:33:37-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sby/stp/5382615348.html</dc:source>
+<dc:title><![CDATA[Kik - w4m (San Jose)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T16:33:37-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/pen/stp/5376666040.html">
+<title><![CDATA[Curious about Polyamory? Let's explore it without any Expectations! - m4mw]]></title>
+<link>http://sfbay.craigslist.org/pen/stp/5376666040.html</link>
+<description><![CDATA[Easy going guy looking for couple who are into or want to explore polyamory. Google if you don't know polyamory! 
+If you are curious, wanting to try and looking for a friend, companion, confidant to explore then hit reply :) 
+Let's get to know each o [...]]]></description>
+<dc:date>2015-12-31T16:25:45-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/pen/stp/5376666040.html</dc:source>
+<dc:title><![CDATA[Curious about Polyamory? Let's explore it without any Expectations! - m4mw]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00L0L_31EdMnafoOq_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-12-31T16:25:45-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/stp/5382594759.html">
+<title><![CDATA[Shirtless and Sports - m4m (East Bay)]]></title>
+<link>http://sfbay.craigslist.org/eby/stp/5382594759.html</link>
+<description><![CDATA[Hey guys. Do you enjoy being shirtless? Do you remember those dorm or fraternity days from college? I am looking for other like-minded dudes into hanging out shirtless...We can drive around town, watch sports, etc. 
+Non-shirtless sports fans...I can  [...]]]></description>
+<dc:date>2015-12-31T16:21:50-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/stp/5382594759.html</dc:source>
+<dc:title><![CDATA[Shirtless and Sports - m4m (East Bay)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T16:21:50-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/stp/5382604951.html">
+<title><![CDATA[New Years plans? ✌🏽️💥 - w4m (fremont / union city / newark)]]></title>
+<link>http://sfbay.craigslist.org/eby/stp/5382604951.html</link>
+<description><![CDATA[Hey! 
+My plans fell through and I don't want to go to the city and deal w crowds and the &#128055;. So was wondering if anyone was in my situation and want to meet up at bar or go somewhere.]]></description>
+<dc:date>2015-12-31T16:19:51-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/stp/5382604951.html</dc:source>
+<dc:title><![CDATA[New Years plans? ✌🏽️💥 - w4m (fremont / union city / newark)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00606_eU8VigN4kEX_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-12-31T16:19:51-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/pen/stp/5382601232.html">
+<title><![CDATA[New Year, New People - m4w (Peninsula/SF)]]></title>
+<link>http://sfbay.craigslist.org/pen/stp/5382601232.html</link>
+<description><![CDATA[My NY resolution is to meet some new people and make some new friends. If you are in a similar boat lets talk. Wouldn't be nice to start the new year with someone new... 
+;-)]]></description>
+<dc:date>2015-12-31T16:15:04-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/pen/stp/5382601232.html</dc:source>
+<dc:title><![CDATA[New Year, New People - m4w (Peninsula/SF)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00n0n_8VL6sU4Mbln_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-12-31T16:15:04-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/stp/5379446157.html">
+<title><![CDATA[Sports fan - m4m (East Bay)]]></title>
+<link>http://sfbay.craigslist.org/eby/stp/5379446157.html</link>
+<description><![CDATA[I am a sports fan in the area. It would be cool to meet up with other guys into watching sports. Please respond with your favorite team in the title. I would like to meet up with fans in their 20s and 30s as that is my age range. Please keep this pla [...]]]></description>
+<dc:date>2015-12-31T16:12:32-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/stp/5379446157.html</dc:source>
+<dc:title><![CDATA[Sports fan - m4m (East Bay)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T16:12:32-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/stp/5379446760.html">
+<title><![CDATA[Football Buddy - m4m (East Bay)]]></title>
+<link>http://sfbay.craigslist.org/eby/stp/5379446760.html</link>
+<description><![CDATA[I am looking for other guys into sports. I am gay and happily in a relationship. It would be cool to go to a sports bar and hang out and watch the games. If you are in your 20s or 30s and can talk sports, let me know.]]></description>
+<dc:date>2015-12-31T16:11:23-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/stp/5379446760.html</dc:source>
+<dc:title><![CDATA[Football Buddy - m4m (East Bay)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T16:11:23-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/stp/5382576260.html">
+<title><![CDATA[Both married or attached--lets see and find out discretely - m4w]]></title>
+<link>http://sfbay.craigslist.org/eby/stp/5382576260.html</link>
+<description><![CDATA[Why not? 
+And yes, we are and should both married or attached...but in need and search of more since we cant really change our current situations.... I guess we have already this in common if you are still reading this ad. 
+I'm not alone I bet... Lif [...]]]></description>
+<dc:date>2015-12-31T15:57:29-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/stp/5382576260.html</dc:source>
+<dc:title><![CDATA[Both married or attached--lets see and find out discretely - m4w]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T15:57:29-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/stp/5382574995.html">
+<title><![CDATA[Our marriages, feels like roommates?  Let's chat and see... - m4w]]></title>
+<link>http://sfbay.craigslist.org/eby/stp/5382574995.html</link>
+<description><![CDATA[Hi, 
+And yes I'm married as well as you should be if you are reading this...but in need and search of more since i cant really change my current situations.... I guess I would like to find someone with the same needs 
+I'm not alone I bet... Life is w [...]]]></description>
+<dc:date>2015-12-31T15:56:56-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/stp/5382574995.html</dc:source>
+<dc:title><![CDATA[Our marriages, feels like roommates?  Let's chat and see... - m4w]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00I0I_3BzwWg23dVp_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-12-31T15:56:56-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/stp/5382575675.html">
+<title><![CDATA[Yes we are very married or attached--lets Connect discretely - m4w]]></title>
+<link>http://sfbay.craigslist.org/eby/stp/5382575675.html</link>
+<description><![CDATA[Why not? 
+And yes, we are and should both married or attached...but in need and search of more since we cant really change our current situations.... I guess we have already this in common if you are still reading this ad. 
+I'm not alone I bet... Lif [...]]]></description>
+<dc:date>2015-12-31T15:54:46-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/stp/5382575675.html</dc:source>
+<dc:title><![CDATA[Yes we are very married or attached--lets Connect discretely - m4w]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T15:54:46-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/stp/5382582654.html">
+<title><![CDATA[Art, Classical music, books and - m4w (in the east bay)]]></title>
+<link>http://sfbay.craigslist.org/eby/stp/5382582654.html</link>
+<description><![CDATA[I like foreign movies too. I'd like to meet a nice, intelligent woman who enjoys these sorts of things. I can do the alone but I prefer to share them with someone. This does not necessitate a romance. We can be friends and having a friend who shares  [...]]]></description>
+<dc:date>2015-12-31T15:52:04-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/stp/5382582654.html</dc:source>
+<dc:title><![CDATA[Art, Classical music, books and - m4w (in the east bay)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T15:52:04-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sfc/stp/5382582051.html">
+<title><![CDATA[Need a friend? Someone to talk to? - w4mw]]></title>
+<link>http://sfbay.craigslist.org/sfc/stp/5382582051.html</link>
+<description><![CDATA[Are you in need of someone to listen? A friend to talk to? Someone you can ask for advice? 
+I have been using my psychology degree to help people get through rough patches for the past few years. Sometimes all you need is someone you can bounce ideas [...]]]></description>
+<dc:date>2015-12-31T15:51:19-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sfc/stp/5382582051.html</dc:source>
+<dc:title><![CDATA[Need a friend? Someone to talk to? - w4mw]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T15:51:19-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/stp/5378724035.html">
+<title><![CDATA[Gentlemen seeks Asian woman/lunch companion - m4w (emeryville)]]></title>
+<link>http://sfbay.craigslist.org/eby/stp/5378724035.html</link>
+<description><![CDATA[I'm an educated professional in my late 49's, very respectful, looking for a break in my routine and take a younger woman out to be my lunch companion, share a nice meal a glass of wine and some nice conversation and flirtation. I'd be happy to give  [...]]]></description>
+<dc:date>2015-12-31T15:50:36-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/stp/5378724035.html</dc:source>
+<dc:title><![CDATA[Gentlemen seeks Asian woman/lunch companion - m4w (emeryville)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T15:50:36-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sby/stp/5377381160.html">
+<title><![CDATA[Single white male seek single female as cuddle friend.  No sex - m4w (san jose south)]]></title>
+<link>http://sfbay.craigslist.org/sby/stp/5377381160.html</link>
+<description><![CDATA[I am a single white male seeking a single female as a cuddle friend. No sex. I am French, Irish, German, and Spanish (from Spain type of Spanish). I was born in San Jose and lived all of my life in California.]]></description>
+<dc:date>2015-12-31T15:48:21-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sby/stp/5377381160.html</dc:source>
+<dc:title><![CDATA[Single white male seek single female as cuddle friend.  No sex - m4w (san jose south)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00c0c_1QPmD7FPIFi_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-12-31T15:48:21-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sfc/stp/5382523882.html">
+<title><![CDATA[Gentleman Assistant Available - m4w]]></title>
+<link>http://sfbay.craigslist.org/sfc/stp/5382523882.html</link>
+<description><![CDATA[Desire to have your needs anticipated and cared for by a handsome young gentleman? Someone to open doors, carry belongings, serve drinks, and make sure that there is no mess left to clean or tasks to be worried about? Or maybe an understanding listen [...]]]></description>
+<dc:date>2015-12-31T15:41:46-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sfc/stp/5382523882.html</dc:source>
+<dc:title><![CDATA[Gentleman Assistant Available - m4w]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00Z0Z_ah7C1FChr14_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-12-31T15:41:46-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/nby/stp/5382524709.html">
+<title><![CDATA[Gentleman Assistant Available - m4w]]></title>
+<link>http://sfbay.craigslist.org/nby/stp/5382524709.html</link>
+<description><![CDATA[Desire to have your needs anticipated and cared for by a handsome young gentleman? Someone to open doors, carry belongings, serve drinks, and make sure that there is no mess left to clean or tasks to be worried about? Or maybe an understanding listen [...]]]></description>
+<dc:date>2015-12-31T15:30:00-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/nby/stp/5382524709.html</dc:source>
+<dc:title><![CDATA[Gentleman Assistant Available - m4w]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00Z0Z_ah7C1FChr14_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-12-31T15:30:00-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/stp/5382562434.html">
+<title><![CDATA[There is still time to have a NYE plan - m4w (emeryville)]]></title>
+<link>http://sfbay.craigslist.org/eby/stp/5382562434.html</link>
+<description><![CDATA[We are almost there and for whatever reason you are by yourself with no plan for tonight. Let's meet a stranger in safe environment for a coffee, drink or dinner. You are not going to lose anything except hearing crowd cheers alone in your place. Bri [...]]]></description>
+<dc:date>2015-12-31T15:28:32-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/stp/5382562434.html</dc:source>
+<dc:title><![CDATA[There is still time to have a NYE plan - m4w (emeryville)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00808_cdeGAYZhJp9_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-12-31T15:28:32-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/eby/stp/5382543873.html">
+<title><![CDATA[Test a Psychedelic Sex Lube (women only) - m4mw (berkeley)]]></title>
+<link>http://sfbay.craigslist.org/eby/stp/5382543873.html</link>
+<description><![CDATA[Get high and play with the partner of your choice. 
+For a while, I've been developing a series cannabis infused oils as external ointments, (but they are quite edible), to be used as lip-balms and or skin ointments. All of these ointments have a very [...]]]></description>
+<dc:date>2015-12-31T15:20:10-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/eby/stp/5382543873.html</dc:source>
+<dc:title><![CDATA[Test a Psychedelic Sex Lube (women only) - m4mw (berkeley)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00U0U_dzMELHoPmtp_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-12-31T15:20:10-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sfc/stp/5382553527.html">
+<title><![CDATA[Let's watch the fireworks together - w4m (mission district)]]></title>
+<link>http://sfbay.craigslist.org/sfc/stp/5382553527.html</link>
+<description><![CDATA[Hello, 
+My plan fell through. But it's not too late. Looking for a down to earth, gentleman, respectful, great sense of humor, age 30-43, easygoing, cute guy to watch the fireworks tonight at embarcadero. Of course, I know that chemistry is key so we [...]]]></description>
+<dc:date>2015-12-31T15:18:36-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sfc/stp/5382553527.html</dc:source>
+<dc:title><![CDATA[Let's watch the fireworks together - w4m (mission district)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00H0H_7KUOH3xgODW_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-12-31T15:18:36-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sfc/stp/5382525338.html">
+<title><![CDATA[2016 - m4m (castro / upper market)]]></title>
+<link>http://sfbay.craigslist.org/sfc/stp/5382525338.html</link>
+<description><![CDATA[Are you stressed from all the holiday work etc. I can help sooth those muscles out. I am a masseur able to make your stress melt away. I am only into giving massages to fit and handsome gym guys who take care of there bodies. Contact me now to save a [...]]]></description>
+<dc:date>2015-12-31T15:12:41-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sfc/stp/5382525338.html</dc:source>
+<dc:title><![CDATA[2016 - m4m (castro / upper market)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00101_c09ocARTLB2_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-12-31T15:12:41-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sfc/stp/5382480362.html">
+<title><![CDATA[Looking for a good massage - m4m (hayes valley)]]></title>
+<link>http://sfbay.craigslist.org/sfc/stp/5382480362.html</link>
+<description><![CDATA[Looking for a good massage with reasonable rate. Perferable a cmt with a table . If this is you hot me up with your info and a clear pic 
+thanks]]></description>
+<dc:date>2015-12-31T14:49:52-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sfc/stp/5382480362.html</dc:source>
+<dc:title><![CDATA[Looking for a good massage - m4m (hayes valley)]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2015-12-31T14:49:52-08:00</dcterms:issued>
+</item>
+<item rdf:about="http://sfbay.craigslist.org/sfc/stp/5378815138.html">
+<title><![CDATA[Gym time is fun time- - m4m (castro / upper market)]]></title>
+<link>http://sfbay.craigslist.org/sfc/stp/5378815138.html</link>
+<description><![CDATA[Want to learn? 
+- Learn the proper way to exercise the muscle groups you want to focus on 
+- Be more motivated to workout regularly 
+- Learn new exercises to train for the outdoor activities you like 
+Here to assess your needs, goals, and current fit [...]]]></description>
+<dc:date>2015-12-31T14:48:00-08:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>&#x26;copy; 2016 &#x3C;span class="desktop"&#x3E;craigslist&#x3C;/span&#x3E;&#x3C;span class="mobile"&#x3E;CL&#x3C;/span&#x3E;</dc:rights>
+<dc:source>http://sfbay.craigslist.org/sfc/stp/5378815138.html</dc:source>
+<dc:title><![CDATA[Gym time is fun time- - m4m (castro / upper market)]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="http://images.craigslist.org/00101_c09ocARTLB2_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2015-12-31T14:48:00-08:00</dcterms:issued>
+</item>
+</rdf:RDF>
