@@ -8,10 +8,27 @@ from numpy import *
 
 
 def sigmoid(inX):
+    """calculate sigmoid value
+
+    Args:
+        inX (matrix):
+
+    Returns:
+        (matrix):
+    """
     return 1.0 / (1 + exp(-inX))
 
 
 def gradAscent(dataMatIn, classLabels):
+    """gradient ascent algorithm to calculate weights
+
+    Args:
+        dataMatIn (list):
+        classLabels (list):
+
+    Returns:
+        (matrix):
+    """
     # convert to NumPy matrix
     dataMatrix = mat(dataMatIn)
     # convert to NumPy matrix
@@ -24,17 +41,26 @@ def gradAscent(dataMatIn, classLabels):
     weights = ones((n, 1))
     # heavy on matrix operations
     for k in range(maxCycles):
-        # matrix mult
+        # matrix multiply
         h = sigmoid(dataMatrix * weights)
         # vector subtraction
         error = labelMat - h
-        # matrix mult
+        # matrix multiply
         weights = weights + alpha * dataMatrix.transpose() * error
 
     return weights
 
 
 def stocGradAscent0(dataMatrix, classLabels):
+    """random gradient ascent algorithm to calculate weights
+
+    Args:
+        dataMatrix (matrix):
+        classLabels (list):
+
+    Returns:
+        (ndarray):
+    """
     m, n = shape(dataMatrix)
 
     alpha = 0.01
@@ -50,6 +76,16 @@ def stocGradAscent0(dataMatrix, classLabels):
 
 
 def stocGradAscent1(dataMatrix, classLabels, numIter=150):
+    """final random gradient ascent algorithm to calculate weights
+
+    Args:
+        dataMatrix (matrix):
+        classLabels (list):
+        numIter (int, optional): iteration times
+
+    Returns:
+        (ndarray):
+    """
     m, n = shape(dataMatrix)
 
     # initialize to all ones
@@ -73,6 +109,15 @@ def stocGradAscent1(dataMatrix, classLabels, numIter=150):
 
 
 def classifyVector(inX, weights):
+    """classify the input data with weights
+
+    Args:
+        inX (ndarray):
+        weights (matrix):
+
+    Returns:
+        (boolean):
+    """
     prob = sigmoid(sum(inX * weights))
     return 1.0 if prob > 0.5 else 0.0
 
