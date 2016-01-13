@@ -6,7 +6,7 @@ from mlkit.algo.logistic_regression import logistic_regression
 def loadDataSet():
     dataMat = [];
     labelMat = []
-    fr = open('testSet.txt')
+    fr = open('logistic_regression_testSet.txt')
     for line in fr.readlines():
         lineArr = line.strip().split()
         dataMat.append([1.0, float(lineArr[0]), float(lineArr[1])])
